@@ -17,3 +17,18 @@ The original dataset can be found here : https://www.kaggle.com/datasets/abdalla
 - **spam_classification_project.ipynb**: Jupyter Notebook used for training the model and performing data analysis.
 - **spam.csv**: Dataset used for training the spam classifier.
 
+# Model
+**The project uses a Random Forest classifier trained on TF-IDF transformed email content. The model predicts whether an email is spam based on its text features.**
+
+# Technologies Used
+**Python**: Programming language for backend logic and machine learning.
+**Flask**: Web framework to build the application.
+**Scikit-learn**: Machine learning library for building the model.
+**Pandas & Numpy**: Library for data manipulation and analysis.
+**Joblib**: Library for saving and loading machine learning models.
+**HTML/CSS**: For designing the user interface.
+
+
+# Contact
+For questions or feedback, please contact me : https://sousalla.github.io/soufianeaalla/ .
+
